@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mira lucu
+=======
+file ini juga tak clone dari repone salis. hafni was here
+>>>>>>> c5f4651701f369171cc57a9c80665e0163f5694e
